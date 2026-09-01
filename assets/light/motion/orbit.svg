@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img">
+  <rect width="900" height="260" rx="24" fill="#FFFFFF" stroke="#D1D9E0"/>
+  <path id="loop" d="M160,130 C160,60 320,40 450,40 C620,40 740,70 740,130 C740,200 620,220 450,220 C280,220 160,200 160,130" fill="none" stroke="#D1D9E0" stroke-width="2"/>
+  <circle r="8" fill="#0969DA">
+    <animateMotion dur="5s" repeatCount="indefinite"><mpath href="#loop"/></animateMotion>
+  </circle>
+  <g font-family="ui-sans-serif, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(200,130)">
+      <circle r="42" fill="#FFFFFF" stroke="#0969DA" stroke-width="2"/>
+      <text y="6" fill="#1F2328" font-size="14" font-weight="700">Research</text>
+    </g>
+    <g transform="translate(450,52)">
+      <circle r="42" fill="#FFFFFF" stroke="#0969DA" stroke-width="2"/>
+      <text y="6" fill="#1F2328" font-size="14" font-weight="700">Systems</text>
+    </g>
+    <g transform="translate(700,130)">
+      <circle r="42" fill="#FFFFFF" stroke="#0969DA" stroke-width="2"/>
+      <text y="6" fill="#0969DA" font-size="14" font-weight="700">Agentic</text>
+    </g>
+    <g transform="translate(450,208)">
+      <rect x="-58" y="-22" width="116" height="44" rx="22" fill="#DDF4FF"/>
+      <text y="6" fill="#0969DA" font-size="13" font-weight="700">Decide &amp; ship</text>
+    </g>
+  </g>
+</svg>
