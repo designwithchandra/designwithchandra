@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="72" viewBox="0 0 900 72" role="img">
+  <rect width="900" height="72" rx="18" fill="#FFFFFF" stroke="#D1D9E0" stroke-width="1.5"/>
+  <rect x="18" y="32" width="36" height="8" rx="4" fill="#0969DA">
+    <animate attributeName="width" values="36;120;36" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+  <g font-family="ui-sans-serif, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#1F2328">
+    <text x="72" y="42">Design Lead</text>
+    <text x="250" y="42" fill="#59636E">·</text>
+    <text x="272" y="42" fill="#0969DA">Agentic Designer</text>
+    <text x="458" y="42" fill="#59636E">·</text>
+    <text x="480" y="42">UI/UX · Research · No-code</text>
+  </g>
+  <circle cx="860" cy="36" r="7" fill="#0969DA">
+    <animate attributeName="r" values="5;9;5" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
