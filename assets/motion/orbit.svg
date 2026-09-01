@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Agentic design loop animation">
+  <rect width="900" height="260" rx="24" fill="#000000"/>
+  <path id="loop" d="M160,130 C160,60 320,40 450,40 C620,40 740,70 740,130 C740,200 620,220 450,220 C280,220 160,200 160,130" fill="none" stroke="#002F1B" stroke-width="2"/>
+  <circle r="8" fill="#00FF01">
+    <animateMotion dur="5s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#loop"/>
+    </animateMotion>
+  </circle>
+  <g font-family="ui-sans-serif, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(200,130)">
+      <circle r="42" fill="#0A0A0A" stroke="#00FF01" stroke-width="2">
+        <animate attributeName="stroke-opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <text y="6" fill="#FFFFFF" font-size="14" font-weight="700">Research</text>
+    </g>
+    <g transform="translate(450,52)">
+      <circle r="42" fill="#0A0A0A" stroke="#37C837" stroke-width="2">
+        <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+      </circle>
+      <text y="6" fill="#FFFFFF" font-size="14" font-weight="700">Systems</text>
+    </g>
+    <g transform="translate(700,130)">
+      <circle r="42" fill="#0A0A0A" stroke="#00FF01" stroke-width="2">
+        <animate attributeName="stroke-opacity" values="1;0.3;1" dur="2.4s" begin="1.6s" repeatCount="indefinite"/>
+      </circle>
+      <text y="6" fill="#00FF01" font-size="14" font-weight="700">Agentic</text>
+    </g>
+    <g transform="translate(450,208)">
+      <rect x="-58" y="-22" width="116" height="44" rx="22" fill="#002F1B"/>
+      <text y="6" fill="#00FF01" font-size="13" font-weight="700">Decide &amp; ship</text>
+    </g>
+  </g>
+</svg>
