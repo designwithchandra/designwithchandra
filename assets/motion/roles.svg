@@ -13,4 +13,6 @@
   </g>
   <circle cx="920" cy="36" r="7" fill="#00FF01">
     <animate attributeName="r" values="5;9;5" dur="1.6s" repeatCount="indefinite"/>
-    <animate
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
