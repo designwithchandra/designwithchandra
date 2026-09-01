@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="56" viewBox="0 0 900 56" role="img">
+  <rect width="900" height="56" rx="16" fill="#151B23" stroke="#3D444D"/>
+  <clipPath id="clip"><rect width="900" height="56" rx="16"/></clipPath>
+  <g clip-path="url(#clip)" font-family="ui-sans-serif, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#F0F6FC">
+    <g>
+      <text x="24" y="34">Figma · FigJam · Webflow · Framer · GPT-4V · LangChain · Maze · Tokens · WCAG 2.1 AA · Cursor · Storybook · ProtoPie</text>
+      <text x="924" y="34">Figma · FigJam · Webflow · Framer · GPT-4V · LangChain · Maze · Tokens · WCAG 2.1 AA · Cursor · Storybook · ProtoPie</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-900 0" dur="18s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
