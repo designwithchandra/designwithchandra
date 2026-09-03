@@ -26,9 +26,9 @@
 </p>
 
 <p align="center">
-  <a href="#selected-work"><img src="https://img.shields.io/badge/Work-1F2328?style=for-the-badge&labelColor=F6F8FA&color=1F2328" alt="Work" /></a>
-  <a href="#contributions"><img src="https://img.shields.io/badge/Contributions-0969DA?style=for-the-badge&labelColor=DDF4FF&color=0969DA" alt="Contributions" /></a>
-  <a href="#practice"><img src="https://img.shields.io/badge/Practice-59636E?style=for-the-badge&labelColor=F6F8FA&color=59636E" alt="Practice" /></a>
+  <a href="https://github.com/designwithchandra?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1F2328?style=for-the-badge&labelColor=F6F8FA&color=1F2328" alt="Repositories" /></a>
+  <a href="https://github.com/designwithchandra?tab=projects"><img src="https://img.shields.io/badge/Projects-0969DA?style=for-the-badge&labelColor=DDF4FF&color=0969DA" alt="Projects" /></a>
+  <a href="https://github.com/designwithchandra?tab=packages"><img src="https://img.shields.io/badge/Packages-59636E?style=for-the-badge&labelColor=F6F8FA&color=59636E" alt="Packages" /></a>
   <a href="https://designwithchandra.com"><img src="https://img.shields.io/badge/Let's_talk-1F2328?style=for-the-badge&labelColor=EFF2F5&color=1F2328" alt="Let's talk" /></a>
 </p>
 
@@ -125,6 +125,26 @@
   </picture>
 </div>
 </details>
+
+---
+
+<a id="studio"></a>
+
+### Studio — Repositories · Projects · Packages
+
+The public GitHub account is maintained as one studio, not three leftover tabs.
+
+| Surface | What stays current | Open |
+| --- | --- | --- |
+| **Repositories** | Public work with a homepage, topics, and a README | [Repositories](https://github.com/designwithchandra?tab=repositories) |
+| **Projects** | One Studio board: Now / Next / Live | [Studio board](https://github.com/users/designwithchandra/projects/1) |
+| **Packages** | `@designwithchandra/tokens` — shared color system | [Packages](https://github.com/designwithchandra?tab=packages) |
+
+| Live | What it is |
+| --- | --- |
+| [Studio index](https://designwithchandra.github.io) | Hub for repos, the board, and packages |
+| [Agentic LaunchPad](https://designwithchandra.github.io/agentic-launchpad/) | Idea → library → blueprint → workflow → GitHub files |
+| [Tokens](https://github.com/designwithchandra/tokens) | GitHub Packages color tokens |
 
 ---
 
